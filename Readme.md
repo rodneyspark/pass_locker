@@ -46,7 +46,7 @@ If you would like to collaborate fork the project and clone it by following the 
 * Python only
 
 ## Contacts and Support
-If you would like to ask questions,or need help or would like us to expand on the project feel free to reach out rodneygakuru@gmail.com or also reach out directly on {0769106099}
+If you would like to ask questions,or need help or would like us to expand on the project feel free to reach out rodneygakuru@gmail.com or also reach out directly on [0769106099]()
 
 ## License and Copyright
 Licensed under [MIT license](license)
